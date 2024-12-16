@@ -43,6 +43,3 @@ Feel free to explore the simulation and modify the code as per your needs.
 ## License
 This project is open source. Feel free to use and modify the code and design.
 
-Wokwi (https://wokwi.com/projects/417453145151233025)
-Digital Inclinometer- - Wokwi ESP32, STM32, Arduino Simulator
-Run IoT and embedded projects in your browser: ESP32, STM32, Arduino, Pi Pico, and more. No installation required!
